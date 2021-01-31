@@ -1,0 +1,72 @@
+/* .App {
+  text-align: center;
+  background-color: rgb(76, 76, 88);
+} */
+
+/* body{
+  background-color: rgb(22, 22, 212);
+} */
+
+/* #bg-color{
+  background-color: rgb(218, 218, 231);
+  height: 577px;
+} */
+
+#bgColor{
+  background-color: rgb(218, 218, 231);
+  height: 700px;
+}
+
+#main-content{
+  margin-top: 7%;
+  margin-left: 20%;
+}
+
+#homeImg{
+  width: 63%;
+  height: 247px;
+}
+
+#myImg{
+  width: 140px;
+  height: 94px;
+}
+#myBtn{
+  border-radius: 13px ;
+  background-color: rgb(10, 133, 92);
+}
+#homeBtn{
+  /* margin-top: 18px;
+  margin-left: 213px;
+  width: 193px; */
+  border-radius: 23px;
+  /* font-weight: bold; */
+}
+#quesBtn{
+  border-radius: 22px;
+  /* padding: 10px;
+  font-size: 24px; */
+}
+
+#quesBtn:disabled {
+  opacity: 0.5;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+

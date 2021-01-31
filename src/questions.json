@@ -1,0 +1,522 @@
+{
+  "topics": [{
+
+      "technology": [
+		  {
+          "id": 1,
+          "question": "In which decade was the American Institute of Electrical Engineers (AIEE) founded?",
+          "answer": "B",
+          "solution": "The IEEE (Institute of Electrical and Electronics Engineers) was formed in 1963 by the merger of the Institute of Radio Engineers (IRE, founded 1912) and the American Institute of Electrical Engineers (AIEE, founded 1884).",
+          "option": ["A.1850s", "B.1880s", "C.1930s", "D.1950s"]
+        },
+        {
+          "id": 2,
+          "question": "What is part of a database that holds only one type of information?",
+          "answer": "B",
+          "option": ["A.Report", "B.Field", "C.Record", "D.File"]
+        },
+        {
+          "id": 3,
+          "question": "What'OS' computer abbreviation usually means ?",
+          "answer": "C",
+          "option": [
+            "A.Order of Significance",
+            "B.Open Software",
+            "C.Operating System",
+            "D.Optical Sensor"
+          ]
+        },
+        {
+          "id": 4,
+          "question": "WhatIn which decade with the first transatlantic radio broadcast occur?",
+          "answer": "D",
+          "solution": "On December 12, 1901, a radio transmission received by Guglielmo Marconi resulted in the first transmission of a transatlantic wireless signal (Morse Code) from Poldhu, Cornwall, to St. John's, Newfoundland.",
+          "option": ["A.1850s", "B.1860s", "C.1870s", "D.1900s"]
+        },
+        {
+          "id": 5,
+          "question": "'.MOV' extension refers usually to what kind of file?",
+          "answer": "B",
+          "solution": "On December 12, 1901, a radio transmission received by Guglielmo Marconi resulted in the first transmission of a transatlantic wireless signal (Morse Code) from Poldhu, Cornwall, to St. John's, Newfoundland.",
+          "option": [
+            "A.Image file",
+            "B.Animation/movie file   ",
+            "C.Audio file",
+            "D.MS Office document"
+          ]
+        },
+        {
+          "id": 6,
+          "question": "In which decade was the SPICE simulator introduced?",
+          "answer": "C",
+          "solution": "SPICE (Simulation Program with Integrated Circuit Emphasis) was introduced in May 1972 by the University of Berkeley, California.",
+          "option": ["A.1950s", "B.1960s", "C.1972s", "D.1980s"]
+        },
+        {
+          "id": 7,
+          "question": "Most modern TV's draw power even if turned off. The circuit the power is used in does what function?",
+          "answer": "B",
+          "solution": "Some authorities are recommending TV's, VCR's and Stereo's be connected to power strips with switches and turned off when not in use to save energy. Your remote will not work until power is switched back on.",
+          "option": [
+            "A.Sound",
+            "B.Remote control",
+            "C.Color balance",
+            "D.High voltage"
+          ]
+        },
+        {
+          "id": 8,
+          "question": "Which is a type of Electrically-Erasable Programmable Read-Only Memory?",
+          "answer": "A",
+          "solution": "It's commonly used for MP3 players, computer BIOS code and 'thumb' drives. Originally developed in Japan by Toshiba, it has become quite popular for products requiring non-volatile erasable memory. Flash devices have a limited number of erase cycles (typically 10,000 to 1,000,000 cycles) so they're not as good a choice for applications in which the data changes constantly. However, since it has no moving parts (unlike a hard disk) it is an excellent choice for storing the operating code for small personal electronics like PDAs, cell phones, digital cameras, and the data in items like MP3 players.",
+          "option": ["A.Flash", "B.Flange", "C.Fury", "D.FRAM"]
+        },
+        {
+          "id": 9,
+          "question": "The purpose of choke in tube light is ?",
+          "answer": "D",
+          "solution": "It's commonly used for MP3 players, computer BIOS code and 'thumb' drives. Originally developed in Japan by Toshiba, it has become quite popular for products requiring non-volatile erasable memory. Flash devices have a limited number of erase cycles (typically 10,000 to 1,000,000 cycles) so they're not as good a choice for applications in which the data changes constantly. However, since it has no moving parts (unlike a hard disk) it is an excellent choice for storing the operating code for small personal electronics like PDAs, cell phones, digital cameras, and the data in items like MP3 players.",
+          "option": [
+            "A.To decrease the current",
+            "B.To increase the current",
+            "C.To decrease the voltage momentarily",
+            "D.To increase the voltage momentarily"
+          ]
+        },
+        {
+          "id": 10,
+          "question": "'.MPG' extension refers usually to what kind of file?",
+          "answer": "C",
+          "solution": "It's commonly used for MP3 players, computer BIOS code and 'thumb' drives. Originally developed in Japan by Toshiba, it has become quite popular for products requiring non-volatile erasable memory. Flash devices have a limited number of erase cycles (typically 10,000 to 1,000,000 cycles) so they're not as good a choice for applications in which the data changes constantly. However, since it has no moving parts (unlike a hard disk) it is an excellent choice for storing the operating code for small personal electronics like PDAs, cell phones, digital cameras, and the data in items like MP3 players.",
+          "option": [
+            "A.WordPerfect Document file",
+            "B.MS Office document",
+            "C.Animation/movie file",
+            "D.Image file"
+          ]
+        }
+      ],
+
+      "sports": [
+        {
+          "id": 1,
+          "question": "Former Australian captain Mark Taylor has had several nicknames over his playing career. Which of the following was not one of them?",
+          "answer": "C",
+          "solution": "Helium Bat was not one of them.",
+          "option": ["A.Tubby", "B.Stodge", "C.Helium Bat", "D.Stumpy"]
+        },
+        {
+          "id": 2,
+          "question": "Which was the 1st non Test playing country to beat India in an international match?",
+          "answer": "B",
+          "option": ["A.Canada", "B.Sri Lanka", "C.Zimbabwe", "D.East Africa"]
+        },
+        {
+          "id": 3,
+          "question": "Track and field star Carl Lewis won how many gold medals at the 1984 Olympic games?",
+          "answer": "C",
+          "solution": "Lewis has won nine Olympic gold medals in all: four in 1984 (100m, 200m, 4x100m, long jump), two in 1988 (100m and long jump), two in 1992 (4x100m and long jump), and one in 1996 (long jump).",
+          "option": ["A.Two", "B.Three", "C.Four ", "D.Eight"]
+        },
+        {
+          "id": 4,
+          "question": "Which county did Ravi Shastri play for?",
+          "answer": "A",
+          "solution": "Ravi Shastri once hit spinner Tilak Raj for 6 sixes in an over in a First Class match.",
+          "option": [
+            "A.Glamorgan",
+            "B.Leicestershire",
+            "C.Gloucestershire",
+            "D.Lancashire"
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Who was the first Indian to win the World Amateur Billiards title?",
+          "answer": "B",
+          "solution": "Jones, a dominant national amateur champion for more than a decade, won the amateur world championship twice, in 1958 and 1964. He was awarded the Arjuna Award in 1963, the Padma Shri Award in 1965, and the Dronacharya Award in 1996. He was the first Indian to be a World champion in any sport.",
+          "option": [
+            "A.Geet Sethi",
+            "B.Wilson Jones",
+            "C.Michael Ferreira",
+            "D.Manoj Kothari"
+          ]
+        },
+        {
+          "id": 6,
+          "question": "Who is the first Indian woman to win an Asian Games gold in 400m run?",
+          "answer": "C",
+          "solution": "Kamaljeet Sandhu is a female Indian athlete who won gold medal at 1970 Bangkok Asian Games in 400 m race. She ran the distance in 57.3 seconds. She was the first Indian woman athlete to win gold medal at any Asian games.",
+          "option": [
+            "A.M.L.Valsamma",
+            "B.P.T.Usha",
+            "C.Kamaljit Sandhu",
+            "D.K.Malleshwari"
+          ]
+        },
+        {
+          "id": 7,
+          "question": "Which two counties did Kapil Dev play?",
+          "answer": "A",
+          "solution": "Kapil Dev played for Northamptonshire & Worcestershire.",
+          "option": [
+            "A.Northamptonshire & Worcestershire",
+            "B.Northamptonshire & Warwickshire",
+            "C.Nottinghamshire & Worcestershire",
+            "D.Nottinghamshire & Warwickshire"
+          ]
+        },
+        {
+          "id": 8,
+          "question": "When was Amateur Athletics Federation of India established?",
+          "answer": "B",
+          "solution": "Amateur Athletic Federation of India (AAFI) was formed in 1946 at the initiative of Maharaja Yadvindra Singh, the then President of Indian Olympic Association with Prof. G.D. Sondhi as its first President.",
+          "option": ["A.1936", "B.1946", "C.1956 ", "D.1966"]
+        },
+        {
+          "id": 9,
+          "question": "Who did Stone Cold Steve Austin wrestle at the 1998 edition of 'Over the Edge'?",
+          "answer": "C",
+          "solution": "Even though Mick Foley portrayed all of these gimmicks, he wrestled Stone Cold under Dude Love. The match had Vince McMahon as the referee. It started off as a regular match. Vince then changed it to No Holds Barred so Dude Love can use weapons. Finally he changed it to Falls Count Anywhere. That happened when Love had Austin knocked out while outside the ring. Since Vince is the owner and assigned himself as referee he could do what he wants. After all of that, Austin still retained his title that night.",
+          "option": [
+            "A.Cactus Jack",
+            "B.Mankind",
+            "C.Dude Love",
+            "D.Mick Foley"
+          ]
+        },
+        {
+          "id": 10,
+          "question": "Ricky Ponting is also known as what?",
+          "answer": "B",
+          "solution": "Ricky Ponting is also known as punter.",
+          "option": ["A.The Rickster", "B.Ponts", "C.Ponter", "D.Punter"]
+        }
+      ],
+
+      "history": [
+        {
+          "id": 1,
+          "question": "During the First World War, which country signed the Peace Treaty (1917) with Germany",
+          "answer": "C",
+          "solution": "In December 1917, Germany agreed to an armistice and peace talks with Russia, and Lenin sent Leon Trotsky to Brest-Litovsk in Belarus to negotiate a treaty. The talks broke off after Germany demanded independence for Russian holdings in Eastern Europe, and in February 1918 fighting resumed on the eastern front. They signed the Peace Treaty.",
+          "option": ["A.England", "B.USA", "C.Russia", "D.Austria"]
+        },
+        {
+          "id": 2,
+          "question": "When did United Kingdom declared war on Germany which lead to World War II?",
+          "answer": "D",
+          "solution": "On 3rd September 1939, Prime Minister Chamberlain went to the airwaves to announce to the British people that a state of war existed between their country and Germany. World War II had begun.",
+          "option": [
+            "A.4th April 1939",
+            "B.18th August 1939",
+            "C.28th August 1939",
+            "D.3rd September 1939"
+          ]
+        },
+        {
+          "id": 3,
+          "question": "In which year, America joined the Second World War",
+          "answer": "C",
+          "solution": "The United States did not enter the war until after the Japanese bombed the American fleet in Pearl Harbor, Hawaii, on December 7, 1941.",
+          "option": ["A.1939", "B.1940", "C.1941", "D.1942"]
+        },
+        {
+          "id": 4,
+          "question": "The immediate cause for the out break of the first World War was",
+          "answer": "A",
+          "solution": "The assassination of Archduke Franz Ferdinand of the Austro-Hungarian Empire on June 28, 1914 in Sarajevo was the immediate cause of WWI.",
+          "option": [
+            "A.The assassination of Archduke Francis Ferdinand",
+            "B.The imprisonment of Lenin",
+            "C.The ambition of America to dominate the world",
+            "D.The sudden death of Lloyd George"
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Who were the Axis powers in World War-II?",
+          "answer": "D",
+          "solution": "The World War-II lasted from 1939 to 1945 fought between two opposite Military alliances the Allied powers (France, Great Britain, The United States, The Soviet Union) and the Axis powers (Germany, Italy, Japan).",
+          "option": [
+            "A.Poland, Japan, Germany",
+            "B.Italy, Japan, Britain",
+            "C.Germany, Italy, France",
+            "D.Germany, Italy, Japan"
+          ]
+        },
+        {
+          "id": 6,
+          "question": "On which side did Japan fight in the First World War?",
+          "answer": "D",
+          "solution": "World War-I began with the assasination of Archduke Franz Ferdinaud. In this conflict Germany, Austria, Hungary, Bulgaria and Ottoman Empire (Central Power) fought against the Great Briain, France, Russia, Italy, Romania, Japan and the United States (Allied Power).",
+          "option": [
+            "A.None, it was neutral",
+            "B.With Germany against United Kingdom",
+            "C.Against Russia on its own",
+            "D.With United Kingdom against Germany"
+          ]
+        },
+        {
+          "id": 7,
+          "question": "The last country of Axis power to surrender during the end of the World War II was",
+          "answer": "B",
+          "solution": "Aboard the USS Missouri in Tokyo Bay, Japan formally surrenders to the Allies, bringing an end to World War II. By the summer of 1945, the defeat of Japan was a foregone conclusion. The Japanese navy and air force were destroyed.",
+          "option": ["A.Germany", "B.Japan", "C.Italy", "D.France"]
+        },
+        {
+          "id": 8,
+          "question": "Who become the Chancellor of Germany for One Day after the death of Hitler during Second World War",
+          "answer": "D",
+          "solution": "Hitler committed suicide on 30 April. In accordance with Hitler's will, Goebbels succeeded him as Chancellor of Germany; he served one day in this post.",
+          "option": [
+            "A.Hermann Goering",
+            "B.Heinrich Himmler",
+            "C.Rudolf Hess",
+            "D.Joseph Goebbels"
+          ]
+        },
+        {
+          "id": 9,
+          "question": "The war criminals of the World War-II were put to trial in",
+          "answer": "A",
+          "solution": "Nuremberg trial were series of 13 trials carried out in Nurembeng, Germany held by the Allied forces after World War-II. The International tribunal sentenced 12 high ranking Nazis to death for war crimes on Oct 1, 1946. It is refferred as 'the Greatest trial in history'.",
+          "option": [
+            "A.Nuremburg",
+            "B.Peitersburg",
+            "C.Gettysburg",
+            "D.Peitsburg "
+          ]
+        },
+        {
+          "id": 10,
+          "question": "Where was republic established in Germany after the First World War",
+          "answer": "B",
+          "solution": "The Weimar Republic was Germany's government from 1919 to 1933, the period after World War I until the rise of Nazi Germany.",
+          "option": ["A.Munich", "B.Weimer", "C.Berlin", "D.Bavaria"]
+        }
+      ],
+
+      "generalKnowledge": [
+        {
+          "id": 1,
+          "question": "Who amongst the following had called Rabindranath Tagore as THE GREAT SENTINEL?",
+          "answer": "B",
+          "solution": "Mahatma Gandhi amongst the following had called Rabindranath Tagore as THE GREAT SENTINEL. Rabindranath Tagore was a key figure of the Bengal Renaissance. He started writing at an early age and by the turn of the century had become a household name in Bengal as a poet, a songwriter, a playwright, an essayist, a short story writer and a novelist. In 1913 he was awarded the Nobel Prize for Literature and his verse collection Gitanjali came to be known internationally. At about the same time he founded Visva-Bharati, a university located in Santiniketan, near Kolkata. Called the ‘Great Sentinel’ of modern India by Mahatma Gandhi, Tagore steered clear of active politics but is famous for returning his knighthood as a gesture of protest against the Jallianwala Bagh massacre in 1919.",
+          "option": [
+            "A.Abul Kalam Azad",
+            "B.Mahatma Gandhi",
+            "C.Dr. Rajendra Prasad",
+            "D.Subhash Chandra Bose"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Grand Central Terminal, Park Avenue, New York is the world's",
+          "answer": "C",
+          "solution": "Grand Central Terminal, Park Avenue, New York is the world's largest railway station. GCT is the largest train station in the world in terms of area occupied and number of platforms. The terminal is spread over 49 acres and has 44 platforms.",
+          "option": [
+            "A.highest railway station",
+            "B.longest railway station",
+            "C.largest railway station",
+            "D.None of the above"
+          ]
+        },
+        {
+          "id": 3,
+          "question": "Entomology is the science that studies",
+          "answer": "C",
+          "solution": "Entomology is the science that studies insects. Entomologists have many important jobs, such as the study of the classification, life cycle, distribution, physiology, behavior, ecology and population dynamics of insects.",
+          "option": [
+            "A.The origin and history of technical and scientific terms",
+            "B.Behavior of human beings",
+            "C.Insects",
+            "D.The formation of rocks"
+          ]
+        },
+        {
+          "id": 4,
+          "question": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of",
+          "answer": "A",
+          "solution": "Eritrea is a northeast African country on the Red Sea coast. It shares borders with Ethiopia, Sudan and Djibouti. The capital city, Asmara, is known for its Italian colonial buildings, like St. Joseph's Cathedral, as well as art deco structures. Italian, Egyptian and Turkish architecture in Massawa reflect the port city's colorful history. Notable buildings here include St. Mariam Cathedral and the Imperial Palace.",
+          "option": ["A.Africa", "B.Australia", "C.Europe", "D.Asia"]
+        },
+        {
+          "id": 5,
+          "question": "Garampani sanctuary is located at",
+          "answer": "C",
+          "solution": "Garampani sanctuary is located at Diphu, Assam. It is one of the oldest sanctuaries containing hot water spring and waterfalls and surrounded by Nambor Sanctuary having 51 rare species of orchid.",
+          "option": [
+            "A.Gangtok, Sikkim",
+            "B.Kohima, Nagaland",
+            "C.Diphu, Assam",
+            "D.Junagarh, Gujarat"
+          ]
+        },
+        {
+          "id": 6,
+          "question": "For which of the following disciplines is Nobel Prize awarded?",
+          "answer": "D",
+          "solution": "For Literature, Peace and Economics, Physics and Chemistry and Physiology or Medicine of the following disciplines the Nobel Prize is awarded.",
+          "option": [
+            "A.Literature, Peace and Economics",
+            "B.Physics and Chemistry",
+            "C.Physiology or Medicine",
+            "D.All of the above"
+          ]
+        },
+        {
+          "id": 7,
+          "question": "Hitler party which came into power in 1933 is known as",
+          "answer": "D",
+          "solution": "Hitler party which came into power in 1933 is known as Nazi Party. Under the leadership of Adolf Hitler (1889-1945), the National Socialist German Workers’ Party, or Nazi Party, grew into a mass movement and ruled Germany through totalitarian means from 1933 to 1945. Founded in 1919 as the German Workers’ Party, the group promoted German pride and anti-Semitism, and expressed dissatisfaction with the terms of the Treaty of Versailles, the 1919 peace settlement that ended World War I (1914-1918) and required Germany to make numerous concessions and reparations.",
+          "option": [
+            "A.Ku-Klux-Klan",
+            "B.Democratic Party",
+            "C.Labour Party",
+            "D.Nazi Party"
+          ]
+        },
+        {
+          "id": 8,
+          "question": "FFC stands for",
+          "answer": "B",
+          "solution": "FFC stands for Film Finance Corporation. FFC, is India's state funding body for films. The 1927 Indian Cinematograph Committee recommended such a state-sponsored agency in its Report of the Indian Cinematograph Committee.",
+          "option": [
+            "A.Federation of Football Council",
+            "B.Film Finance Corporation",
+            "C.Foreign Finance Corporation",
+            "D.None of the above"
+          ]
+        },
+        {
+          "id": 9,
+          "question": "Fastest shorthand writer was",
+          "answer": "A",
+          "solution": "Fastest shorthand writer was Dr. G. D. Bist.",
+          "option": [
+            "A.Dr. G. D. Bist",
+            "B.J.M. Tagore",
+            "C.Khudada Khan",
+            "D.J.R.D. Tata"
+          ]
+        },
+        {
+          "id": 10,
+          "question": "Epsom (England) is the place associated with",
+          "answer": "B",
+          "solution": "Epsom (England) is the place associated with Horse racing. Epsom is a market town in Surrey, England, 22.0 km south-west of London. Epsom Downs Racecourse holds The Derby, now a generic name for sports competitions in English-speaking countries. The town also gives its name to Epsom salts, extracted from mineral waters there.",
+          "option": ["A.Shooting", "B.Horse racing", "C.Polo", "D.Snooker"]
+        }
+      ],
+
+      "geography": [
+        {
+          "id": 1,
+          "question": "The Hwang Ho River falls into:",
+          "answer": "B",
+          "solution": "Yellow Sea",
+          "option": [
+            "A.Indian Ocean",
+            "B.Yellow Sea.",
+            "C.Red Sea   ",
+            "D.Bay of China"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Yokohama and Kobe are the main centres of ship building industry in:",
+          "answer": "A",
+          "solution": "Japan",
+          "option": ["A.Japan", "B.South Korea", "C.North Korea", "D.China"]
+        },
+        {
+          "id": 3,
+          "question": "Cocos plate lies between:",
+          "answer": "A",
+          "solution": "Central America and Pacific Plate.",
+          "option": [
+            "A.Central America and Pacific Plate.",
+            "B.North America and Pacific Plate",
+            "C.South America and Pacific Plate",
+            "D.None of Above"
+          ]
+        },
+        {
+          "id": 4,
+          "question": "Brown Waterfalls are situated in:",
+          "answer": "B",
+          "solution": "New Zealand",
+          "option": [
+            "A.Australia",
+            "B.New Zealand",
+            "C.Canada",
+            "D.SwitSwitzerland"
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Mindanoo Island is located in:",
+          "answer": "C",
+          "solution": "The Pacific Ocean",
+          "option": [
+            "A.The Indian Ocean",
+            "B.North Atlantic",
+            "C.The Pacific Ocean",
+            "D.South Atlantic"
+          ]
+        },
+        {
+          "id": 6,
+          "question": "Upper Volta is the old name of:",
+          "answer": "C",
+          "solution": "Burkina Faso is a landlocked country in West Africa around 274,200 square kilometers in size. Formerly called the Republic of Upper Volta. Under the direction of Sankara, the country changed its name on August 4, 1984, from Upper Volta to Burkina Faso, which means 'Land of Incorruptible People'. The name Upper Volta indicated that the country contains the upper part of the Volta River.",
+          "option": ["A.Angola", "B.Cape Verde", "C.Burkina Faso", "D.Burkina"]
+        },
+        {
+          "id": 7,
+          "question": "Greenland is under the rule of:",
+          "answer": "B",
+          "solution": "Denmark.",
+          "option": ["A.Turkey", "B.Denmark", "C.Germany", "D.Portugal"]
+        },
+        {
+          "id": 8,
+          "question": "The highest point of Australia is:",
+          "answer": "A",
+          "solution": "Mount Kosciusko (2,228 m) Mount Twonsend (2,209 m) Mount Twynam (2,196 m) Abbott Peak (2,145 m) These all are located in New South Wales.",
+          "option": [
+            "A.Mount Kosciusko.",
+            "B.Mount Twonsend",
+            "C.Mount Twynam",
+            "D.Abbott Peak"
+          ]
+        },
+        {
+          "id": 9,
+          "question": "Who constructed Suez Canal?",
+          "answer": "D",
+          "solution": "Ferdinand Marie Vicomte de Lesseps GCSI was a French diplomat and later developer of the Suez Canal, which in 1869 joined the Mediterranean and Red Seas, substantially reducing sailing distances and times between Europe and East Asia.",
+          "option": [
+            "A.Fyodor Litke",
+            "B.Pyotr Semyonov-Tyan-Shansky",
+            "C.Voin Rimsky-Korsakov",
+            "D.Ferdinand de Lesseps"
+          ]
+        },
+        {
+          "id": 10,
+          "question": "Cincinnati (U .S .A.) is famous in the making of:",
+          "answer": "A",
+          "solution": "Machine Tools",
+          "option": [
+            "A.Machine Tools",
+            "B.Cement Industry",
+            "C.Bio-technical Industry",
+            "D.Aviation Tools"
+          ]
+        }
+      ]
+    }
+  ]
+}
